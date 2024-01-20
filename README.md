@@ -33,7 +33,7 @@ By selectecting any result, the user can see details about it and for songs spec
 An artist can edit their bio that the users see.
 
 
-## Database:
+## Database
 
 The database implements the `generalization and specialization` principle for the two types of accounts.<br>
 There are `CRUD` operations on most of the tables, such as creating an account, deleting a song from the "liked" section of an user and updating the bio of an artist.<br>
