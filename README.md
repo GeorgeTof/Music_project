@@ -38,7 +38,7 @@ An artist can edit their bio that the users see.
 The database implements the `generalization and specialization` principle for the two types of accounts.<br>
 There are `CRUD` operations on most of the tables, such as creating an account, deleting a song from the "liked" section of an user and updating the bio of an artist.<br>
 The database diagram:<br>
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/database.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/DB.png)
 
 ## OOP_and_Java_specifics
 
@@ -53,31 +53,31 @@ Here are some screenshots from the usage of the application:<br>
 
 - `Sign In Page`
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/1SignIn.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/logIn.png)
 
-- `Main Page` //write a review, see artist merch or listen to an artist, album or song
+- `Register artist account` 
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/2mainpage.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/register.png)
 
-- `Artist Page` //you can select what album you want to listen to
+- `Search page` 
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/3artistpage.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/search.png)
 
-- `Album Page` //you can select what song you want to listen to
+- `Song page` 
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/4albumpage.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/song.png)
 
-- `Song Page` //you can play or stop the song
+- `Album page` //you can play or stop the song
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/5songpage.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/album.png)
 
-- `Admin Page` //can add genres for an artist + see all reviews
+- `Artist page` - specific to the artist account that can edit their bio
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/6adminmainpage.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/artist.png)
 
-- `See Reviews Page` //only seen by the admin
+- `liked songs` 
   
-![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/7seereviewspage.png)
+![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/likedSongs.png)
 
 # Further_developments
 
