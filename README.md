@@ -18,10 +18,10 @@ Tofan George | 2nd Year Computer Engineering | Technical University of Cluj-Napo
 
 ## Description
 
-The application allows users to search and view details for songs, artsts and albums, add songs to a liked section and review songs, while also seeing other users' reviews. 
-There is also another type of account supported, artist, that has the option to edit their bio, that users can see.
-The application was fully built with `java`, having the user interface built with `Java Swing` and the database connected using `JDBC`. The design pattern followed is `MVC`.
-All the data about the users and songs are stored in a `Postgres SQL Database`, the CRUD opperations being done through the Postgres JDBC driver.
+The application allows users to search and view details for songs, artsts and albums, add songs to a liked section and review songs, while also seeing other users' reviews. <br>
+There is also another type of account supported, artist, that has the option to edit their bio, that users can see. <br>
+The application was fully built with `java`, having the user interface built with `Java Swing` and the database connected using `JDBC`. The design pattern followed is `MVC`. <br>
+All the data about the users and songs are stored in a `Postgres SQL Database`, the CRUD opperations being done through the Postgres JDBC driver. 
 
 
 ## Usage_in_detail
