@@ -40,7 +40,7 @@ There are `CRUD` operations on most of the tables, such as creating an account, 
 The database diagram:<br>
 ![image](https://github.com/GeorgeTof/Music_project/blob/main/readmePhotos/DB.png)
 
-## OOP and Java specifics
+## OOP_and_Java_specifics
 
  - Classes such as "Artist" and "Album" are declared in the model package to mirror entities from the database.
  - Inheritance is used for extending the standard JPanel to a transparent one and for having less code in the two types of song views (reviewed and unreviewed).
