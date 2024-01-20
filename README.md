@@ -26,30 +26,30 @@ All the data about the users and songs are stored in a `Postgres SQL Database`, 
 
 ## Usage_in_detail
 
-At the start of the application, the log in view is opened. There, Any type of user can log in or an account of either type can be created (accounts with the same username are not allowed).
-From the main page, an user can view their liked songs, edit their nickname, or look for new music, albums or artists. 
-In the find view, the user can search for specific results by entering text in the search box and/or apply filters by year and genere and sort the results in any desired way.
-By selectecting any result, the user can see details about it and for songs specifically can add and edit reviews.
+At the start of the application, the log in view is opened. There, Any type of user can log in or an account of either type can be created (accounts with the same username are not allowed).<br>
+From the main page, an user can view their liked songs, edit their nickname, or look for new music, albums or artists. <br>
+In the find view, the user can search for specific results by entering text in the search box and/or apply filters by year and genere and sort the results in any desired way.<br>
+By selectecting any result, the user can see details about it and for songs specifically can add and edit reviews.<br>
 An artist can edit their bio that the users see.
 
 
 ## Database:
 
-The database implements the `generalization and specialization` principle for the two types of accounts.
-There are `CRUD` operations on most of the tables, such as creating an account, deleting a song from the "liked" section of an user and updating the bio of an artist.
-The database diagram:
+The database implements the `generalization and specialization` principle for the two types of accounts.<br>
+There are `CRUD` operations on most of the tables, such as creating an account, deleting a song from the "liked" section of an user and updating the bio of an artist.<br>
+The database diagram:<br>
 ![image](https://github.com/codruj/Music-Player-Project/blob/master/readmepoze/database.png)
 
 ## OOP_and_Java_specifics
 
-Classes such as "Artist" and "Album" are declared in the model package to mirror entities from the database.
-Inheritance is used for extending the standard JPanel to a transparent one and for having less code in the two types of song views (reviewed and unreviewed).
-Overloading is used for having different methods of filling the results of a search based on the type of data retrieved from the database.
+ - Classes such as "Artist" and "Album" are declared in the model package to mirror entities from the database.
+ - Inheritance is used for extending the standard JPanel to a transparent one and for having less code in the two types of song views (reviewed and unreviewed).
+ - Overloading is used for having different methods of filling the results of a search based on the type of data retrieved from the database.
 
 
 # Visuals
 
-Here are some screenshots from the usage of the application:
+Here are some screenshots from the usage of the application:<br>
 
 - `Sign In Page`
   
