@@ -1,7 +1,5 @@
 # Music_Application 
 
-This Music Application was made for the OOP 2023/2024 project assignment.
-
 <p align="center">
   <a href="#Author">Author</a> •
   <a href="#Description">Description</a> •
